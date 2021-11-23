@@ -1,7 +1,7 @@
 # Automatic Captioning
 Automatic captioning 1-week project in the context of a Deep Learning class (Mines Nancy).
 
-Implementation of a CNN x RNN Neural Network to generate captions on images in an unsupervised way. Used an re-implementation of an untrained CNN as part of the assignement.
+Implementation of a CNN x RNN Neural Network to generate captions on images in an unsupervised way. Used a re-implementation of an untrained CNN as part of the assignement.
 
 Some results as explained in the notebook :
 
